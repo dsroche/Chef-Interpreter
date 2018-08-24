@@ -9,6 +9,17 @@ Formal Syntax
 =============
 TODO
 
+Installation
+============
+
+Requirements: `javac` and `jar`
+
+    make
+    make install
+
+To change the install directory, edit the appropriate variable
+in the top-level Makefile.
+
 ## License
 
 This interpreter was written by Wesley Janssen, Joost Rijneveld and Mathijs Vos. All included code is available under the CC0 1.0 Universal Public Domain Dedication.
